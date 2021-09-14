@@ -1,0 +1,5 @@
+[2021-09-14 19:09:43] [INFO] red: Loading packages...
+[2021-09-14 19:09:44] [INFO] red: Loaded packages: permissions, general, admin, alias, cleanup, customcom, downloader, filter, image, mod, modlog, google, speak, todo, typeracer, clsroom
+[2021-09-14 19:09:44] [CRITICAL] red.main: This token doesn't seem to be valid.
+[2021-09-14 19:09:48] [INFO] red.main: Shutting down with exit code: 1
+[2021-09-14 19:09:48] [INFO] red.main: Please wait, cleaning up a bit more
